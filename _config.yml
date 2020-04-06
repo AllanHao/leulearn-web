@@ -98,4 +98,5 @@ theme: matery
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:leulearn/leulearn.github.io.git
