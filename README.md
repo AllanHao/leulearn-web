@@ -1,2 +1,2 @@
-# leulearn.github.io
+# leulearn-web
 blog of leulearn
